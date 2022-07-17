@@ -20,7 +20,7 @@ public class SpringGoofApplication {
 	public CommandLineRunner demo(ItemRepository repository) {
 		return (args) -> {
 			// save a few of items to the grocery list
-			repository.save(new Item("Beans", new Double(0.50D)));
+			repository.save(new Item("Beans", new Double(0.52D)));
 			repository.save(new Item("Milk", new Double(1.09D)));
 			repository.save(new Item("Bread", new Double(1.5D)));
 			repository.save(new Item("Sausages", new Double(4.99D)));
