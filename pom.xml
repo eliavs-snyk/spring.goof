@@ -8,7 +8,7 @@
 	<packaging>jar</packaging>
 
 	<name>spring-goof</name>
-	<description>Spring Boot</description>
+	<description>Spring Boot123</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
